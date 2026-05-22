@@ -7,7 +7,8 @@ This repository is a search and routing surface. The paid ZIP is not stored here
 ## Main Links
 
 - Client delivery kit: https://ivelly42.github.io/agent-ops-command-center/client-delivery-kit.html
-- Fast $203 team request: https://ivelly42.github.io/agent-ops-command-center/team-checkout-request.html
+- Primary $203 team request URL: https://ivelly42.github.io/agent-ops-command-center/team-request-url.html
+- Checkout status: https://ivelly42.github.io/agent-ops-command-center/checkout-status.json
 - Buy page: https://ivelly42.github.io/agent-ops-command-center/buy.html
 - Template gallery: https://ivelly42.github.io/agent-ops-command-center/template-gallery.html
 - Catalog JSON: https://ivelly42.github.io/agent-ops-command-center/catalog.json
@@ -29,7 +30,7 @@ This repository is a search and routing surface. The paid ZIP is not stored here
 
 Open the fast team request:
 
-https://ivelly42.github.io/agent-ops-command-center/team-checkout-request.html
+https://ivelly42.github.io/agent-ops-command-center/team-request-url.html
 
 ## What The Pack Helps Track
 

@@ -9,8 +9,10 @@ It captures run logs, prompts, verification commands, changed files, cost notes,
 
 For a delivery team, the clean purchase path is the seven-seat team license at $203 gross.
 
-Fast request:
-https://ivelly42.github.io/agent-ops-command-center/team-checkout-request.html
+Primary team request:
+https://ivelly42.github.io/agent-ops-command-center/team-request-url.html
+Checkout status:
+https://ivelly42.github.io/agent-ops-command-center/checkout-status.json
 
 Revenue and delivery rule:
 The paid ZIP is delivered only after checkout, receipt, payout, or seller-dashboard proof exists.
